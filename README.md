@@ -12,6 +12,13 @@ GLOX Pixel is a lightweight, Python-based Command Line Image Processing Toolkit 
 
 Designed with simplicity and speed in mind, GLOX Pixel provides useful image editing utilities while keeping everything completely offline, ensuring your files remain private and secure.
 
+
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/Pillow-PIL-purple?style=flat-square)
+![CLI](https://img.shields.io/badge/CLI-Terminal-black?style=flat-square&logo=gnubash)
+![Offline](https://img.shields.io/badge/Offline-Yes-brightgreen?style=flat-square)
+![MIT License](https://img.shields.io/badge/License-MIT-green?style=flat-square)
 ---
 
 # ✨ Features
