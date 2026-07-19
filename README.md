@@ -1,7 +1,7 @@
 # 🖼️ GLOX Pixel
 
 <p align="center">
-  <img src="gloxbanner.png" alt="GLOX Pixel Banner" width="100%">
+  <img src="pixelbanner.png" alt="GLOX Pixel Banner" width="100%">
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ Supported formats include:
 ## Image Enhancement
 
 <p align="center">
-<img src="img2.png" width="90%">
+<img src="img2.PNG" width="90%">
 </p>
 
 ---
@@ -96,7 +96,7 @@ Supported formats include:
 ## Image Filtering
 
 <p align="center">
-<img src="img3.png" width="90%">
+<img src="img3.PNG" width="90%">
 </p>
 
 ---
@@ -104,7 +104,7 @@ Supported formats include:
 ## Image Optimization & Conversion
 
 <p align="center">
-<img src="img4.png" width="90%">
+<img src="img4.PNG" width="90%">
 </p>
 
 ---
