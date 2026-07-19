@@ -80,7 +80,7 @@ Supported formats include:
 ## Main Menu
 
 <p align="center">
-<img src="img1.png" width="90%">
+<img src="img1.PNG" width="90%">
 </p>
 
 ---
