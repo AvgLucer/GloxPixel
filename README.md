@@ -203,3 +203,29 @@ Made with ❤️ using Python
 
 
 Credits : AvgLucer | Gaurav W
+
+
+# ⚠️ Educational & Reference Use Only
+
+![Educational Use Only](https://img.shields.io/badge/Use-Educational%20Only-orange?style=for-the-badge&logo=bookstack)
+![Academic Integrity](https://img.shields.io/badge/Academic-Integrity-red?style=for-the-badge&logo=shield)
+![Do Not Submit](https://img.shields.io/badge/Do%20Not-Claim%20as%20Your%20Own-critical?style=for-the-badge)
+![License](https://img.shields.io/badge/Open%20Source-Learning%20Friendly-blue?style=for-the-badge&logo=github)
+
+> [!WARNING]
+> ## Academic Integrity Notice
+>
+> This repository is published **solely for educational, learning, portfolio, and reference purposes**.
+>
+> You are welcome to:
+> - ✅ Study the source code
+> - ✅ Learn from the implementation
+> - ✅ Experiment and modify it for personal learning
+> - ✅ Build your own projects inspired by this work
+>
+> **However, you must NOT:**
+> - ❌ Submit this repository (or a lightly modified version) as your own assignment or coursework.
+> - ❌ Present this project as your own work in any **school, college, university, bootcamp, internship, hackathon, certification, or academic evaluation.**
+> - ❌ Claim authorship of this project or any substantial portion of its implementation.
+>
+> If this project helps you, the expected approach is to **learn from it and create your own original implementation.** Please respect academic integrity and the time invested in developing this project.
